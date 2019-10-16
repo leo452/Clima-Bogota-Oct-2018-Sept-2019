@@ -17,7 +17,7 @@ Ejecutar la aplicación desde el explorador
 * D3 V5
 * Api de darksky.net
 
-# **_Insight:_** :shipit:
+# **_Insight:_**
 * El 10 de Marzo de 2019 se registro un pico de temperatura de 92 grados farenheit equivalente a 33 grados celcius una cifra muy alta para el promedio de de temperatura de Bogota de 22 grados celcius.
 
 * La mayor parte del año el indice de UV que representa la intensidad de radiacion ultra violeta en la ciudad de Bogota es mayor o igual a 8 lo cual puede llevar producir lesiones en la piel de los Bogotanos.
