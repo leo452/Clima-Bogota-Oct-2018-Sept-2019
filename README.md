@@ -66,7 +66,7 @@ Idiom :Radar Chart
 
 # Marcas
 *Área -> Temperatura Minima y maxima en Bogota
-Lines -> Identificador de uvIndex arriba de 8
+*Lines -> Identificador de uvIndex arriba de 8
 
 # Canales
 *color saturation->Temperatura Minima y maxima en Bogota
